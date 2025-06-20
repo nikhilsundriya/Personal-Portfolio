@@ -3,7 +3,7 @@
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/nikhilsundriya)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://vinodjangid07.github.io/)
-[![Author](https://img.shields.io/badge/Author-Vinod%20Jangid-purple.svg)](https://www.instagram.com/nikhil_choudhary25/)
+[![Author](https://img.shields.io/badge/Author-Nikhil%20Sundriya-purple.svg)](https://www.instagram.com/nikhil_choudhary25/)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/nikhilsundriya)
 <a href="https://github.com/nikhilsundriya"></a>
 
